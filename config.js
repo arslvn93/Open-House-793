@@ -139,7 +139,7 @@ const config = {
     "repoName": "Open-House-793",
     "repoUrl": "https://github.com/arslvn93/Open-House-793",
     "tag": "Open House 468 Cranbrook Gardens SE",
-    "netlifyUrl": "http://Open-House-793.netlify.app",
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/KxSrsX5ZH2ZttFjyt9hW/webhook-trigger/EWFVczQeMtLq5D4IVClg",
     "siteId": "11cbaf14-df7a-4833-9902-05d981eba8a2"
   }
 };
