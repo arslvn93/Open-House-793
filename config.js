@@ -1,22 +1,22 @@
-const config = {
+{
   "property": {
-    "streetAddress": "142 Valley Glen Heights NW",
+    "streetAddress": "468 Cranbrook Gardens SE",
     "city": "Calgary",
-    "cityStateZip": "Calgary, AB T3B 5S8",
-    "heroSubtitle": "Amazing back yard, expansive 44x146-foot lot (7,588 sq ft) backing onto a tranquil nature reserve and the renowned Bow River Pathway. Register to receive the complete property Home &amp; Neighbourhood Info Package, virtual tour, floor plans, and comparables.",
-    "backgroundImageUrl": "https://cdn.realtor.ca/listing/TS638829328681570000/reb9/highres/1/A2219911_1.jpg"
+    "cityStateZip": "Calgary, AB T3M 3N5",
+    "heroSubtitle": "Extra large lot with lots of natural light and a beautiful kitchen, unobstructed views, and a unique home gym & yoga studio overlooking the river valley. Register to receive the complete Home & Neighbourhood Info Package, virtual tour, floor plans, and comparables.",
+    "backgroundImageUrl": "https://www.realtor.ca/real-estate/28322163/468-cranbrook-gardens-se-calgary-cranston"
   },
   "realtor": {
     "fullName": "Amy Caughlin",
     "title": "REALTOR®",
     "phone": "15874391618",
-    "email": "arslan@salesgenius.co",
-    "bio": "A former risk manager turned Realtor, proptech co-founder, podcast host, and passionate community advocate. I help busy professionals and families find homes that truly fit their lives, while working behind the scenes to make real estate better for everyone involved. With a background in risk management, I bring a strategic lens to every transaction, ensuring my clients make informed, confident decisions. I’m also the co-founder of Jazzberry, a platform designed by realtors, for realtors. A proud Maritimer, I lead with authenticity, hospitality, and heart. Whether I’m running along the Bow River, adventuring in the mountains with my family, or hosting FutureRE — The Future of Real Estate, I’m always driven by curiosity, connection, and impact.",
-    "photoUrl": "https://static.showit.co/800/TUEDlhwVYAO5v1iU87fE1w/264146/headshot.jpg",
+    "email": "amy@caughlinrealestate.ca",
+    "bio": "A former risk manager turned Realtor, proptech co-founder, podcast host, and passionate community advocate. I help busy professionals and families find homes that truly fit their lives, while working behind the scenes to make real estate better for everyone involved. With a background in risk management, I bring a strategic lens to every transaction, ensuring my clients make informed, confident decisions. I’m also the co-founder of Jazzberry, a platform designed by realtors, for realtors, built to simplify the chaos behind the curtain so clients experience more clarity, transparency, and joy in their home journey. A proud Maritimer, I lead with authenticity, hospitality, and heart. Whether I’m running along the Bow River, adventuring in the mountains with my family, or hosting FutureRE — The Future of Real Estate, I’m always driven by curiosity, connection, and impact. My path hasn’t been linear — and I believe that’s where the magic lies. I’m here to challenge the status quo, build solutions that truly help people, and give back to the communities that raised me — especially organizations that uplift women, children, and families.",
+    "photoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/d43b40bf-8ed2-49c3-a704-34908837cf96/SueMoodiePhotography_CalgaryBrandPhotography_AmyCaughlin_StudioSession_60_Edit.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SCJU4C6X%2F20250521%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250521T182801Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAoaCXVzLXdlc3QtMiJGMEQCIGIaBrJFSxM6%2BF1vGpdomCfP7tu8UE1W%2F1ZHDqqEiKGaAiAzV80mFMxgQ7Y5SkPd2EfOkoom43MyW658BxWli8%2F%2BjyqIBAjD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMikd5EWjioaIv7yx8KtwDlPw9EaQL9qg2VAVk5ppjvv4B7S2swimjV8hAIlFo62amGcill2cmsGMor0Ttbo6gSSCR1LZXUguTiqHSaAvg4RhJRu9U9%2BonY8qqvKX6fi92DEKvl6pk7FdOhlDs0MNIPnaZOMR%2Fw7ORmn2TZDL21s2Z7VmDjcmqCmHkjF0qYPOdwMtzk06Xzr%2B1T2wNUEN8jfDhvLCuf4splcOORSQ4cSJOMRvCMeutqCGAU%2BpnHq1PjEPiqkZMjbPTZqUrlQJqf9r%2FGJqZFGieh72tT2%2Fvr6QvTYPrwHCH5TGULps3EpjNnx0h9rQfBZ0HMyRFfK3w0jevc0B%2B47%2BjFiGZcmBjAal2V9Kh%2F2akE6X0ufGQoM9W9655eNIk8H2s0itwPZ8yUF%2F148MY8eAnP4FxjlcbOEbZPZPiXijWYYwLx1mGsQfI%2BFxLoAs%2FxQM2XW%2F54gv59xf%2BOXiIqn8wQgS67%2F6T6%2FStQF7blFi9%2BQltqBJQD24DO0o9amKPeAFaMjZxIaoJHVhgt04UAKneYqNtnaiEasruwcQPpckXKzvxP1H%2BKUTLFVtdNV124QRFv0ky3SCJj4qH40VN5%2F95h19E8mmp186O9uXIfIqSzXAYSbRJuZaOHZgSD3lI60nUa1swwaK4wQY6pgGrhw5Nh24vNljEa4PVSS9c3JZyEZGPzSpYFHh7QdP5FrYRIltrbflvCbJFGzkOJ5HiK9N0hgA7LnWC8nosyMUhrHLVfGeGqNvUuMfgBOiQtf1Z7IKfsUvrjykcpPuwrIp4uWbkTKOGVyTxJjCt7tV3lJOEdCUHD1LWCrjvbC5yJ6gzJSl%2BVZTGpqvlDDpjSJv%2FsJAyDCUfrmxQ%2BMLFdMQ3oTF36%2Fve&X-Amz-Signature=552422d0e584e1d67d3cbe1aa24e6d51aeecbce3011fd568553be5e3af260fea&X-Amz-SignedHeaders=host&x-id=GetObject",
     "social": {
       "facebook": "https://www.facebook.com/caughlinrealestate/",
-      "instagram": "https://www.instagram.com/caughlin.realestate/",
-      "website": "https://caughlinrealestate.ca/"
+      "instagram": "https://www.instagram.com/alewi854/",
+      "website": "https://www.welpneedthis.com"
     }
   },
   "brokerage": {
@@ -25,35 +25,22 @@ const config = {
     "address": "5940 Macleod Trl SW #500, Calgary, AB T2H 2G4"
   },
   "openHouse": {
-    "eventDate": "2025-05-17",
+    "eventDate": "2025-05-24",
     "bundleItems": [
       {
         "icon": "fas fa-ruler-combined",
-        "text": "Architectural Floor Plan"
+        "text": "Architectural Floor Plan",
+        "link": "https://matrixmedia.pillarnine.com/mediaserver/GetMedia.ashx?Key=99951414&TableID=0&Type=3&Number=0&Size=0&NNF=1&RFN=pillarnineonmarket%2f9f39e26852c74e89bbace0a34eb49fa0.pdf&tstmp=0521092253&exk=75a8558b34164c281b3c00bcce8026b1"
       },
       {
         "icon": "fas fa-star",
-        "text": "Neighbourhood Guide"
+        "text": "Neighbourhood Guide",
+        "link": "https://matrix.pillarnine.com/Matrix/Public/Portal.aspx?p=DE-265911625-203&k=4209874X4C2F&eml=YW15bGNhdWdobGluQGdtYWlsLmNvbQ=="
       },
       {
         "icon": "fas fa-check-circle",
-        "text": "Market Stats"
-      },
-      {
-        "icon": "fas fa-car",
-        "text": "School District Information"
-      },
-      {
-        "icon": "fas fa-key",
-        "text": "Financing Resources"
-      },
-      {
-        "icon": "fas fa-home",
-        "text": "Utility Cost Estimates"
-      },
-      {
-        "icon": "fas fa-map-location-dot",
-        "text": "Property Feature List"
+        "text": "Market Stats",
+        "link": "https://matrix.pillarnine.com/Matrix/Public/Portal.aspx?p=DE-265911625-203&k=4209874X4C2F&eml=YW15bGNhdWdobGluQGdtYWlsLmNvbQ=="
       },
       {
         "icon": "fas fa-image",
@@ -64,7 +51,7 @@ const config = {
   "meta": {
     "pageTitlePrefix": "🏡 Amy Caughlin Open House",
     "navBrandLogoText": "OPEN HOUSE",
-    "privacyPolicyLink": "https://caughlinrealestate.ca/"
+    "privacyPolicyLink": "https://www.welpneedthis.com"
   },
   "settings": {
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
@@ -116,10 +103,10 @@ const config = {
     }
   ],
   "deploymentInfo": {
-    "repoName": "Open-House-957",
-    "repoUrl": "https://github.com/arslvn93/Open-House-957",
-    "tag": "Open House 142 Valley Glen Heights NW",
-    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/zpjvSoJ3TMkdq8pcj7VJ/webhook-trigger/GIJI1X6L1zS4PxcScJqY",
-    "netlifyId": "dc35cadf-51e9-4ca8-843c-a084dd57add1"
+    "repoName": "Open-House-793",
+    "repoUrl": "https://github.com/arslvn93/Open-House-793",
+    "tag": "Open House 468 Cranbrook Gardens SE",
+    "netlifyUrl": "http://Open-House-793.netlify.app",
+    "siteId": "987887195"
   }
-};
+}
